@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1041923262396",
+    "firebase_url": "https://kkart-f9008.firebaseio.com",
+    "project_id": "kkart-f9008",
+    "storage_bucket": "kkart-f9008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041923262396:android:1bcbe91dbbcee91a938db9",
+        "android_client_info": {
+          "package_name": "com.developerm.kkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041923262396-s748kf8imvtd2285lc3p052o6tt7a054.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfZ_9Ppg2_SLoXj-eq6-OHay5g9LDnTyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041923262396-s748kf8imvtd2285lc3p052o6tt7a054.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
