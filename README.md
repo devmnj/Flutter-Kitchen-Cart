@@ -1,6 +1,6 @@
 # Kitchen Cart
 
-A Flutter - Firestore application that will run on Android and  iOS. Users can add item to buy to the shopping cart and can mark items  as finished when purchase complete by sliding item to right side also can remove item by sliding to left. So the second user can see what shopper guy purchased for him. This is simple live data example.
+A Flutter - Firestore application that will run on Android and  iOS. Users can add item to the shopping cart and can mark items  as finished when purchase complete by *sliding item to right side* also can *remove item by sliding to left*. So the second user can see what shopper guy purchased for him and what else remain on his list. This is a simple live data example.
 
 ## IDE and  Packages
 
