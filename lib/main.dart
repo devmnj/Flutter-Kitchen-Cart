@@ -27,7 +27,7 @@ class _MyAppState extends State<MyApp> {
         seconds: 5,
         navigateAfterSeconds: new LiveCart(),
         title: new Text(
-          'Welcome In SplashScreen',
+          'Welcome Kitchen Kart',
           style: new TextStyle(fontWeight: FontWeight.bold, fontSize: 20.0),
         ),
         image:
@@ -318,7 +318,7 @@ class NewKart extends StatelessWidget {
   Widget build(BuildContext context) {
     return new Scaffold(
         appBar: new AppBar(
-            title: new Text("Welcome In SplashScreen Package"),
+            title: new Text("Shopping Cart"),
             automaticallyImplyLeading: false),
         bottomNavigationBar: _bottomNav(context),
         body: Padding(

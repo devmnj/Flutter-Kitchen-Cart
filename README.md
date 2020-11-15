@@ -2,7 +2,7 @@
 
 A Flutter - Firestore application that will run on Android and  iOS. Users can add item to the shopping cart and mark items  as finished when purchase complete by *sliding item to right side* also can *remove item by sliding to left*. So the second user can see what shopper guy purchased for him and what else remain on his list. This is a simple live data example.
 
-<img src="Screenshot_1605379607.png" width=450>
+<img src="Screenshot_1605452680.png" width=450>
 
 ## IDE and  Packages
 
